@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @ignition-ctrl
-- 👀 I’m interested in learning about Python and the Linux filesystem
-- 🌱 I’m currently learning how to rice my i3-gaps Linux Mint distro. 
+
+![](https://komarev.com/ghpvc/?username=ignition-ctrl)
+- 👋 Hi, I’m @ignition-ctrl, a Linux enthusiast and hobbyist Python programmer. I'm studying to become a Linux SysAdmin
+- 👀 I’m learning about Python (Intermediate) and the Linux filesystem
+- 🌱 I’m currently learning how to set up a NGINX reverse proxy. 
 - 📫 You can reach me at akazackt@gmail.com
 
 <!---
