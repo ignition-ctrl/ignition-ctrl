@@ -1,9 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ignition-ctrl)
-- 👋 Hi, I’m @ignition-ctrl, a Linux enthusiast and hobbyist Python programmer. I'm studying to become a Linux SysAdmin
-- 👀 I’m learning about Python (Intermediate) and the Linux filesystem
-- 🌱 I’m currently learning how to set up a NGINX reverse proxy. 
-- 📫 You can reach me at akazackt@gmail.com
+- 👋 Hi, I’m @ignition-ctrl, a Linux enthusiast and hobbyist programmer. I'm studying to become a Linux SysAdmin
+- 🌱 I’m currently learning how to use neorg in neovim.
 
 <!---
 ignition-ctrl/ignition-ctrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
